@@ -17,7 +17,7 @@ class Point {
 public class ConvexHullDivideConquer {
     
     /**
-     * Main method to compute convex hull
+     * Main method to the compute convex hull
      * Time Complexity: O(n log n)
      */
     public static List<Point> convexHull(List<Point> points) {
